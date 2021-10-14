@@ -15,6 +15,10 @@ cp vimrc ~/.vimrc
 
 #### Installation des plugins
 
+###### On ubuntu tap :
 ```
-vim +PluginInstall +qall
+vim
+:VundleInstall
 ```
+###### Attendre pendant l'installation des plugins.
+
